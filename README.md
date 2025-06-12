@@ -1,12 +1,39 @@
-# React + Vite
+Title: FRESH-FRUIT
+Table of Contents with sections like Overview, Getting Started, etc.
+Overview section describing it as a modern JavaScript-based template designed for web application development
+Key Features section listing components like:
+Modular Components
+Text Components
+Colored CSS
+User Guides
+Optimized Workflow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# FRESH-FRUIT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fresh Modern Ready-to-Use Frontend Framework
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+FRESH-FRUIT is a modern JavaScript-based template designed to accelerate the development of stable, high-performance modern web applications. Built with flexible and feature-rich libraries, it delivers a streamlined workflow with clean code structure. The project emphasizes code quality through CSS and provides a clear, maintainable structure to support growth and development.
+
+## Key Features
+
+This project is specifically developed to quickly prototype and build websites with applications and advanced functionality. The main features include:
+
+- **Modular Components**: Reusable React components for a cohesive UI
+- **Text Components**: Pre-designed responsive text styles for content hierarchy
+- **Colored CSS**: Color style guides for consistent application design
+- **User Guides**: Clear documentation and instructional content
+- **Optimized Workflow**: Provides a streamlined project setup, ensuring code quality
+
+## Getting Started
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language**: JavaScript
+- **Package Manager**: npm
+
+### Installation
