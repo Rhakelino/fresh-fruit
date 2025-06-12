@@ -1,7 +1,7 @@
 import React from 'react';
 
 const FeaturedProducts = (props) => {
-    const {title} = props
+    const { title } = props
     const products = [
         {
             id: 1,
@@ -113,7 +113,7 @@ const FeaturedProducts = (props) => {
             <div className="container mx-auto px-4 relative z-10">
                 <h2 className="text-3xl font-bold text-center mb-10">{title}</h2>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                     {products.map((product) => (
                         <div key={product.id} className="bg-white relative group shadow-sm hover:shadow-md transition-shadow">
                             {product.featured && (
